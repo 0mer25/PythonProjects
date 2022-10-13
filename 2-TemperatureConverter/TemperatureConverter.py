@@ -34,22 +34,3 @@ elif(choice1 == "3"):
         print("Did you just tried to convert K to K ¯\_( ͡❛ ͜ʖ ͡❛)_/¯")
     else:
         print("You entered a invalid value")
-
-
-
-
-    
-    
-
-
-
-
-
-
-
-
-
-
-
-
-    

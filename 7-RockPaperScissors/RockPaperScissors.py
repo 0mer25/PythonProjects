@@ -1,4 +1,4 @@
-# Project_6
+# Project_7
 # Rock-Paper-Scissors
 
 import random

@@ -69,7 +69,6 @@ while(gameOver == False):
         if(answer[i] == guess):
             game[i] = guess
             letterNumber -= 1
-            print(letterNumber)
             if(letterNumber == 0):
                 wordHasGuessed = True
             guessed = True
